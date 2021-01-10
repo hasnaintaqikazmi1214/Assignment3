@@ -31,6 +31,9 @@ Comments are given with code for better understanding.
 # Evaluating Accuracy:
 ![alt text](https://github.com/hasnaintaqikazmi1214/Assignment3/blob/main/Accuracy_graph.png?raw=true)
 
+# Confusion Matrix:
+![alt text](https://github.com/hasnaintaqikazmi1214/Assignment3/blob/main/confusion_matrix.png?raw=true)
+
 # Model Wieghts:
  https://drive.google.com/file/d/1SNgmKhpUDP0UAJfkfdc-Y5YmwF0btlxr/view?usp=sharing
 # Load Pre-train Weights:
