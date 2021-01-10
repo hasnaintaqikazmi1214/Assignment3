@@ -15,7 +15,7 @@
   
 # Goal:
   
-   We have a natural scenes images dataset, which need to be classify on 6 classes i.e Building, Forest, Glaciers, Mountains, Sea, street.
+   We have a natural scenes images dataset, which need to be classify on 6 classes i.e Building, Forest, Glacier, Mountain, Sea, Street.
    The dataset is available on two platform, i.e Google drive and Kaggle
  
    Google Drive link: https://drive.google.com/file/d/1-57yNOSE5deGj4IwOa_Y5vXLxD72ihqH/view -> accesible using seecs email only
@@ -28,9 +28,10 @@
 # Implemented Code:
 Comments are given with code for better understanding.
 
-# Evaluating Accuracy and Loss:
+# Evaluating Accuracy:
+![alt text](https://github.com/hasnaintaqikazmi1214/Assignment3/blob/main/Accuracy_graph.png?raw=true)
 
 # Model Wieghts:
-
+ https://drive.google.com/file/d/1SNgmKhpUDP0UAJfkfdc-Y5YmwF0btlxr/view?usp=sharing
 # Load Pre-train Weights:
 pre_train_weights = keras.models.load_model("weights.h5")
