@@ -15,17 +15,17 @@
   
 # Goal:
   
-   We have a natural scenes dataset, which need to be classify on 6 classes i.e Buildings, Forest, Glaciers, Mountains, Sea, street.
+   We have a natural scenes images dataset, which need to be classify on 6 classes i.e Building, Forest, Glaciers, Mountains, Sea, street.
    The dataset is available on two platform, i.e Google drive and Kaggle
  
    Google Drive link: https://drive.google.com/file/d/1-57yNOSE5deGj4IwOa_Y5vXLxD72ihqH/view -> accesible using seecs email only
-   Kaggle Link: https://www.kaggle.com/puneet6060/intel-image-classification/version/2
+   Kaggle Link:       https://www.kaggle.com/puneet6060/intel-image-classification/version/2
  
    Our goal is to classify images to classes using VGG and get better perfomances/ accuracy by applying data Augmentation technique.
 # VGG Achitecture:
 ![alt text](https://neurohive.io/wp-content/uploads/2018/11/vgg16-neural-network.jpg)
 
-# Code:
+# Implemented Code:
 Comments are given with code for better understanding.
 
 # Evaluating Accuracy and Loss:
