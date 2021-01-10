@@ -23,7 +23,7 @@
  
    Our goal is to classify images to classes using VGG and get better perfomances/ accuracy by applying data Augmentation technique.
 # VGG Achitecture:
-[alt text] (https://neurohive.io/wp-content/uploads/2018/11/vgg16-neural-network.jpg)
+![alt text](https://neurohive.io/wp-content/uploads/2018/11/vgg16-neural-network.jpg)
 
 # Code:
 Comments are given with code for better understanding.
